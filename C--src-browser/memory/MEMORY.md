@@ -1,0 +1,4 @@
+- [Bun-native APIs only](feedback_bun-native-apis.md) — tools use Bun APIs; node:path is the only node:* import; sys.ts helpers
+- [Decide, do not ask](feedback_decide-do-not-ask.md) — apply best practice without questions, never bypass rulesets
+- [Fleet file transfer](reference_fleet-file-transfer.md) — scp fails in Git Bash; tar/cat over ssh stdin, fleet facts
+- [Private generated docs](feedback_private-generated-docs.md) — no machine/work data in tracked docs; .local/ + .claude.local.md generated from telemetry and notes

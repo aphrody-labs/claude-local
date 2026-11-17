@@ -1,0 +1,5 @@
+# claude-local (private): project memory only, never session transcripts.
+/*/*
+!/*/memory/
+!/.gitignore
+!/README.md
